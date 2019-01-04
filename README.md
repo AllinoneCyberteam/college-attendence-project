@@ -1,1 +1,2 @@
-collage attendence project
+college attendence project :
+placement portal part (Android and SQL lite): bascially i work on the placement portal part in which we can add about which companies are going to visit the college and what criteria is requried to appear in the interview of that particular company and there is another part which store the database of students who are being placed in companies and on the basic of certain attribute we can search about placement record of college
